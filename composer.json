@@ -1,0 +1,12 @@
+{
+    "name": "u0106398/test",
+    "authors": [
+        {
+            "name": "Tomasz Darmetko",
+            "email": "isinlor@gmail.com"
+        }
+    ],
+    "require": {
+        "kahlan/kahlan": "^3.1"
+    }
+}
